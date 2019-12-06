@@ -1,13 +1,16 @@
 # Zork.py
+# Luc Lafave
+#CSCI 101 - Section F
+#Python Lab EC Code Enhancements
+1) I attempted all parts of the extra credit and I believe I have completed them all. However, I may not
+have done so correctly.
+2) The biggest challenge that I have faced is the item part. It was hard to move the information back and forth.
+I had to do this in very intresting ways and by using slicing and other things. I believe I accomplshed it however,
+I do not think that I did the correct way as specified however I believe it works.
+3) The custom creative things I added are as follows:
+-can collect a fish(does nothing)
+-going north of lake area will lead to armory where a sword can be collected
+-this sword can kill the ogre in the forest area and this is a short cut to the treasure room.
 
-Thank you for downloading a copy of Zork, The PY Edition!
-This Python Program is based loosely on the Storyline of Zork I, and is intended to run and function exactly like the original -
-the only difference being that this version is written with Python and can therefore be run and downloaded for free!
-
-To get started:
-1. Unzip/Extract the files within this folder to your computer
-1. If you do not have the latest version of Python 3 installed, please install it from http://www.python.org/download
-1. Open the file named "zork.py"
-1. Have Fun!
 
 **Note: This program is built to run on Python 3.**
