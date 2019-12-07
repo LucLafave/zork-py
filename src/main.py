@@ -36,7 +36,6 @@ while alive:
         else:
             alive = list_status[0]
             roomnum = list_status[1]
-            print(itemList)
         continue
     
     if roomnum == 1:
